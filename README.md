@@ -32,6 +32,7 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 - [@erowidrecruiter](https://twitter.com/erowidrecruiter) - Erowid trip reports and tech recruiter emails
 - [King James Programming](http://kingjamesprogramming.tumblr.com/) - King James Bible, Structure and Interpretation of Computer Programs, and some of Eric S. Raymond's writings
+- [@TwoHeadlines](https://twitter.com/TwoHeadlines) - take two headlines about different things and then confuse them
 - [The Doom That Came to Puppet](http://thedoomthatcametopuppet.tumblr.com/) - Puppet documentation and the assorted works of H. P. Lovecraft
 - [@x11r5](https://twitter.com/x11r5)
 - [@twatterhose](https://twitter.com/twatterhose) - Twitter public timeline
