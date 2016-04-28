@@ -7,8 +7,8 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 ## Table of Contents
 
-- [A history of funny Markov chains](#a-history-of-funny-Markov-chains)
-- [Websites and Tech](#websites-and-Tech)
+- [A history of funny Markov chains](#a-history-of-funny-markov-chains)
+- [Websites and Tech](#websites-and-tech)
 - [Media](#media)
 - [Tools](#tools)
 - [Lists](#lists)
