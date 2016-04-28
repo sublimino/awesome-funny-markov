@@ -5,6 +5,15 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 **I'm [here](https://www.binarysludge.com) or on [Twitter](https://twitter.com/sublimino).**
 
+## Table of Contents
+
+- [A history of funny Markov chains](#a-history-of-funny-Markov-chains)
+- [Websites and Tech](#websites-and-Tech)
+- [Media](#media)
+- [Tools](#tools)
+- [Lists](#lists)
+- [Sober applications](#sober-applications)
+
 ## A history of funny Markov chains
 
 - ["I Spent an Interesting Evening Recently with a Grain of Salt"](https://web.archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html) - The Original Prank (archive.org)
@@ -20,8 +29,8 @@ A curated list of delightfully amusing and facetious Markov chain output.
 - [Phaker News](http://lou.wtf/phaker-news/) - Hacker News dataset eats itself
 - [Cybersauce Broadcasting Corporation](http://www.x11r5.com/radio/) - A  podcast. International. Impartial. Incomprehensible.
 - [Java! Real or Not?](http://java.metagno.me/) - Guess the Spring Framework class name
-- [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](http://patchworkdollgames.com/yourswimsuit/) - A dating sim about the futility of dating sims.
-- 
+- [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](http://patchworkdollgames.com/yourswimsuit/) - A dating sim about the futility of dating sims
+
 ## Media
 
 - [Calvin and Markov](http://joshmillard.com/markov/calvin/) - Calvin and Hobbes strips
