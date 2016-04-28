@@ -5,12 +5,18 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 **I'm [here](https://www.binarysludge.com) or on [Twitter](https://twitter.com/sublimino).**
 
+## A history of funny Markov chains, by Mark V. Shaney
+
+- ["I Spent an Interesting Evening Recently with a Grain of Salt"](https://web.archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html) - The Original Prank (archive.org)
+- [Mark V. Shaney's Website](https://web.archive.org/web/19970418070034/http://softway.com.au/people/mvs/) - His finest hours (archive.org)
+
 ## Websites and Tech
 
 - [Headline Smasher](http://www.headlinesmasher.com/best/all) - Fake headlines created by smashing up real headlines
 - [Alternative Hacker News](https://news.ycombniator.com/) - Hacker News dataset eats itself
 - [Phaker News](http://lou.wtf/phaker-news/) - Hacker News dataset eats itself
 - [Subreddit Simulator](https://www.reddit.com/r/subredditsimulator) - Many subreddits 
+- [Cybersauce Broadcasting Corporation](http://www.x11r5.com/radio/) - A  podcast. International. Impartial. Incomprehensible.
 
 ## Media
 
@@ -23,6 +29,7 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 ## Tools
 
+- [Mark V. Shaney at Your Service](http://www.yisongyue.com/shaney/)
 - [Benedict Cumberbatch Name Generator](http://benedictcumberbatchgenerator.tumblr.com/)
 - [foswig.js](http://mrsharpoblunto.github.io/foswig.js/) - Generate awesome Javascript project names from the popular JavaScript library names on GitHub
 - [That Can Be My Next Tweet](http://yes.thatcan.be/my/next/tweet/) - generates your future tweets based on the DNA of your existing messages
@@ -37,11 +44,12 @@ A curated list of delightfully amusing and facetious Markov chain output.
 - [@x11r5](https://twitter.com/x11r5)
 - [@twatterhose](https://twitter.com/twatterhose) - Twitter public timeline
 - [@redditron](https://twitter.com/redditron) - Reddit comments
-
+- [@markovmtg](https://twitter.com/markovmtg) - [Magic] Markov the Gathering
+- [@nk_markov](https://twitter.com/nk_markov) - The glorious leader himself
 ## Other, verging on interesting
 
-- [PageRank](https://en.wikipedia.org/wiki/PageRank) - Google is built on Markov Chains
+## Sober applications
+
+- [PageRank](https://www.wikiwand.com/en/PageRank#/Damping_factor) - Google is built on Markov Chains
 - [Digital Music Programming](http://peabody.sapp.org/class/dmp2/lab/markov1/)
-- [http://knowyourmeme.com/memes/novelty-twitter-accounts](http://knowyourmeme.com/memes/novelty-twitter-accounts)
-- [http://www.buzzfeed.com/jwherrman/weird-twitter-the-oral-history#.ntDwN6v8d](http://www.buzzfeed.com/jwherrman/weird-twitter-the-oral-history#.ntDwN6v8d)
 
