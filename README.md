@@ -14,7 +14,7 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 ## Media
 
-- [Mulder's Big Adventure/](http://muldersbigadventure.com/markov/) - semi-coherent bits of random X-Files dialogue, based on community transcripts
+- [Mulder's Big Adventure](http://muldersbigadventure.com/markov/) - semi-coherent bits of random X-Files dialogue, based on community transcripts
 - [Garkov](http://joshmillard.com/garkov/) - transcripts of old Garfield strips
 - [The Big Markovski](http://joshmillard.com/markov/lebowski/) - The Big Lebowski
 - [Jesus Markoving Christ](http://joshmillard.com/markov/christ/) - An incoherent savior for an incoherent age
