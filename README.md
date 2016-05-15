@@ -9,12 +9,12 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 
 ## Table of Contents
 
-- [Web and Tech](#web-and-tech).
-- [Twitter](#twitter).
-- [Media](#media).
-- [Tools](#tools).
-- [A history of funny Markov chains](#a-history-of-funny-markov-chains).
-- [Sober applications](#sober-applications).
+- [Web and Tech](#web-and-tech)
+- [Twitter](#twitter)
+- [Media](#media)
+- [Tools](#tools)
+- [A history of funny Markov chains](#a-history-of-funny-markov-chains)
+- [Sober applications](#sober-applications)
 
 
 ## Web and Tech
