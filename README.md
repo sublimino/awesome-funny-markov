@@ -29,7 +29,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [The Doom That Came to Puppet](http://thedoomthatcametopuppet.tumblr.com/) - Mutations on Puppet documentation and the assorted works of H. P. Lovecraft.
 - [King James Programming](http://kingjamesprogramming.tumblr.com/) - Combined King James Bible, Structure and Interpretation of Computer Programs, and some of Eric S. Raymond's writings.
 - [Git man page Generator](http://git-man-page-generator.lokaltog.net/) - Suspiciously believeable (but incorrect) Git documentation.
-
+- [Jon Skeet bot](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) - Stack Overflow's homage to their greatest ever user, Jon Skeet.
 
 ## Twitter
 
@@ -41,6 +41,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [@markovmtg](https://twitter.com/markovmtg) - [Magic] Markov the Gathering.
 - [@nk_markov](https://twitter.com/nk_markov) - The glorious leader himself.
 - [@HNTitles](https://twitter.com/HNTitles) - HN Titles.
+- [@BeerSnobSays](https://twitter.com/BeerSnobSays) - Drunk tweeting nonsensical beer reviews.
 
 
 ## Media
@@ -53,6 +54,8 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Star Trek the Next Generation](http://joshmillard.com/markov/sttng/) - Previously, on Next Generation....
 - [XKCD](https://xkcd.com/210/) - 90's Flowchart.
 - [Markov Bible](https://web.archive.org/web/20081224025955/http://www.markovbible.com/) - The whole book (archive.org).
+- [Automatic Donald Trump](https://filiph.github.io/markov/) - Donald Trump's smart keyboard.
+- [Insta-Trump](http://trump.frost.works/) - create a mathematically generated Trump speech.
 
 
 ## Tools
@@ -61,7 +64,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Mark V. Shaney at Your Service](http://www.yisongyue.com/shaney/) - Interactie Markov examples.
 - [foswig.js](http://mrsharpoblunto.github.io/foswig.js/) - Generate awesome Javascript project names from the popular JavaScript library names on GitHub.
 - [Benedict Cumberbatch Name Generator](http://benedictcumberbatchgenerator.tumblr.com/) - Permutations on the gentleman's names.
-
+- [Reimagined Yo Mama](https://github.com/Trshant/reimagined-yomama) - yo mama jokes using markov chains (code only).
 
 ## A history of funny Markov chains
 
