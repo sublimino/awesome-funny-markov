@@ -42,6 +42,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [@nk_markov](https://twitter.com/nk_markov) - The glorious leader himself.
 - [@HNTitles](https://twitter.com/HNTitles) - HN Titles.
 - [@BeerSnobSays](https://twitter.com/BeerSnobSays) - Drunk tweeting nonsensical beer reviews.
+- [@icowid](https://twitter.com/icowid) - a markov bot trained on erowid trip reports and ICO whitepapers.
 
 
 ## Media
