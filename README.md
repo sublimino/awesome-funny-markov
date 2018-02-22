@@ -43,6 +43,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [@HNTitles](https://twitter.com/HNTitles) - HN Titles.
 - [@BeerSnobSays](https://twitter.com/BeerSnobSays) - Drunk tweeting nonsensical beer reviews.
 - [@icowid](https://twitter.com/icowid) - a markov bot trained on erowid trip reports and ICO whitepapers.
+- [@hipsterwid](https://twitter.com/hipsterwid) - An hipster bot trained on Erowid trip reports and Pitchfork's album reviews.
 
 
 ## Media
