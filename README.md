@@ -30,6 +30,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [King James Programming](http://kingjamesprogramming.tumblr.com/) - Combined King James Bible, Structure and Interpretation of Computer Programs, and some of Eric S. Raymond's writings.
 - [Git man page Generator](http://git-man-page-generator.lokaltog.net/) - Suspiciously believeable (but incorrect) Git documentation.
 - [Jon Skeet bot](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) - Stack Overflow's homage to their greatest ever user, Jon Skeet.
+- [4chan Text Generator](https://github.com/02sh/4chanMarkovText) - With sample inputs for /biz/ /pol/ /b/ /fit/ (NSFW).
 
 ## Twitter
 
